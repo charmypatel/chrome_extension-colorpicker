@@ -1,4 +1,9 @@
-# GreatExtension
+# Color Picker
+
+This project was created during my internship at Advertising Specialty Institute as a Front End Developer. I created it by following an article on how to build a Chrome Extension using Angular to gain a better understanding of the file structure and process to creating an extension.
+
+Article: https://medium.com/angular-in-depth/chrome-extension-with-angular-why-and-how-778200b87575
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
